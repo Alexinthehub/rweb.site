@@ -1,6 +1,6 @@
 {
-  "alexmwendwa": {
-  "target": "cname.vercel-dns.com",
+"alexmwendwa": {
+  "target": "my-portfolio-frontend-alex113.vercel.app",
   "type": "CNAME",
   "ttl": 3600
 }
